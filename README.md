@@ -1,1 +1,15 @@
 # bash_aliases
+
+alias gb='git branch'
+alias gs='git status'
+alias gp='git pull'
+alias gc='git commit'
+alias gpo='git pull origin'
+alias ga='git add'
+alias gd='git diff'
+alias gdc='git diff --cached'
+alias s='sudo'
+alias g='git'
+alias gsl='git stash list'
+alias ..='cd ..' 
+alias ...='cd ../..'
